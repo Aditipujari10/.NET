@@ -1,0 +1,40 @@
+.NET : 
+
+.NET is a framework and used to create web application  and it is developed by Microsoft .
+
+.NET :---> window's application, and it is older version.
+
+.NETcore : ---> used to cross platform. and it is advanced version.
+cross platform : different operating systems
+
+
+.NET architecture : 
+
+c# source code   c# compiler 
+---------------	 -----------
+
+js source code   js compiler	
+--------------   -----------		
+				------------> Intermediate language -----> just in time -----> machine code
+python s c       py compiler
+-------------- 	-------------
+
+java s c	java compiler
+--------------	-------------
+
+
+
+
+
+CLR : common language runtime ------> it combines all languge code and give it to intermediate language 
+
+intermediate language --------------> it solve the all error and then give it to just in time
+
+just in time -----------------------> it compile the code and then give it to machine code 
+
+
+
+
+
+c# 
+c sharp is a object oriented programming language developed by Microsoft.
