@@ -1,0 +1,39 @@
+.NET Workshop ----->
+
+SDK 
+.NET
+.NET core
+
+ASP.NET -- cross platform framework
+
+Interview related------>
+basic OOP concept
+--- java - class, object, inheritance, data type casting, collections, object, exception handling, Entity Framework
+--- database - SQL,PL/SQL
+--- Networking - client-server architecture, protocols, TCP/IP communication
+--- Software Engineering - Life cycle, agile methodologies, project t management tool(JIRA), Testing manual testing, Auto testing, API testing
+
+asp.net core web app
+asp.net core MVC(model-view-controller)
+web API/ REST API
+
+Frontend : UI Angular/React
+Backend : web API/REST API
+
+Full stack Developer
+
+HTML
+CSS 
+JavaScript
+
+Angular/React
+spring boot/asp.net web api/python based web api/node js
+
+Joomla/moodle/ - easy maintain the static data
+
+
+Agentic AI
+
+
+
+ 

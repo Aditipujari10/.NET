@@ -1,0 +1,7 @@
+C:\Users\pujar\source\repos\delegate\delegate\bin\Debug\@delegate.exe.config
+C:\Users\pujar\source\repos\delegate\delegate\bin\Debug\@delegate.exe
+C:\Users\pujar\source\repos\delegate\delegate\bin\Debug\@delegate.pdb
+C:\Users\pujar\source\repos\delegate\delegate\obj\Debug\delegate.csproj.AssemblyReference.cache
+C:\Users\pujar\source\repos\delegate\delegate\obj\Debug\delegate.csproj.CoreCompileInputs.cache
+C:\Users\pujar\source\repos\delegate\delegate\obj\Debug\@delegate.exe
+C:\Users\pujar\source\repos\delegate\delegate\obj\Debug\@delegate.pdb

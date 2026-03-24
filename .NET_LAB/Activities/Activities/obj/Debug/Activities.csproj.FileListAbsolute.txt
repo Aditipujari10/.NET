@@ -1,0 +1,7 @@
+C:\Users\pujar\source\repos\Activities\Activities\bin\Debug\Activities.exe.config
+C:\Users\pujar\source\repos\Activities\Activities\bin\Debug\Activities.exe
+C:\Users\pujar\source\repos\Activities\Activities\bin\Debug\Activities.pdb
+C:\Users\pujar\source\repos\Activities\Activities\obj\Debug\Activities.csproj.AssemblyReference.cache
+C:\Users\pujar\source\repos\Activities\Activities\obj\Debug\Activities.csproj.CoreCompileInputs.cache
+C:\Users\pujar\source\repos\Activities\Activities\obj\Debug\Activities.exe
+C:\Users\pujar\source\repos\Activities\Activities\obj\Debug\Activities.pdb

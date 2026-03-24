@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pujar\\source\\repos\\solid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC202AD-69A2-42FF-9301-5D6ECF41BC99}|solid\\solid.csproj|c:\\users\\pujar\\source\\repos\\solid\\solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC202AD-69A2-42FF-9301-5D6ECF41BC99}|solid\\solid.csproj|solutionrelative:solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC202AD-69A2-42FF-9301-5D6ECF41BC99}|solid\\solid.csproj|C:\\Users\\pujar\\source\\repos\\solid\\solid\\liskov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC202AD-69A2-42FF-9301-5D6ECF41BC99}|solid\\solid.csproj|solutionrelative:solid\\liskov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC202AD-69A2-42FF-9301-5D6ECF41BC99}|solid\\solid.csproj|C:\\Users\\pujar\\source\\repos\\solid\\solid\\openclosed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC202AD-69A2-42FF-9301-5D6ECF41BC99}|solid\\solid.csproj|solutionrelative:solid\\openclosed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OpenClosed.cs",
+              "DocumentMoniker": "C:\\Users\\pujar\\source\\repos\\solid\\solid\\OpenClosed.cs",
+              "RelativeDocumentMoniker": "solid\\OpenClosed.cs",
+              "ToolTip": "C:\\Users\\pujar\\source\\repos\\solid\\solid\\OpenClosed.cs",
+              "RelativeToolTip": "solid\\OpenClosed.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T07:05:56.589Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Liskov.cs",
+              "DocumentMoniker": "C:\\Users\\pujar\\source\\repos\\solid\\solid\\Liskov.cs",
+              "RelativeDocumentMoniker": "solid\\Liskov.cs",
+              "ToolTip": "C:\\Users\\pujar\\source\\repos\\solid\\solid\\Liskov.cs",
+              "RelativeToolTip": "solid\\Liskov.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T07:15:04.936Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pujar\\source\\repos\\solid\\solid\\Program.cs",
+              "RelativeDocumentMoniker": "solid\\Program.cs",
+              "ToolTip": "C:\\Users\\pujar\\source\\repos\\solid\\solid\\Program.cs",
+              "RelativeToolTip": "solid\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T06:54:15.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

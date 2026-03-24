@@ -1,0 +1,7 @@
+C:\Users\pujar\source\repos\solid\solid\bin\Debug\solid.exe.config
+C:\Users\pujar\source\repos\solid\solid\bin\Debug\solid.exe
+C:\Users\pujar\source\repos\solid\solid\bin\Debug\solid.pdb
+C:\Users\pujar\source\repos\solid\solid\obj\Debug\solid.csproj.AssemblyReference.cache
+C:\Users\pujar\source\repos\solid\solid\obj\Debug\solid.csproj.CoreCompileInputs.cache
+C:\Users\pujar\source\repos\solid\solid\obj\Debug\solid.exe
+C:\Users\pujar\source\repos\solid\solid\obj\Debug\solid.pdb
