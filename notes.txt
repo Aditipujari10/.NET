@@ -1,0 +1,19 @@
+MVC is a design pattern use to develop scalable web application it separeate application into 3 different resposiblity
+model ,view, controller
+
+
+
+1.model---->
+model data layer. model represent application data and business logic.
+database interaction, data validation and business rules
+ex public class customers {
+    public string name[get,set];
+    public int id[get,set];
+    public string email[get,set];
+}
+
+2.view is a UL layer.view is a responsible for user interface.
+display data,forms ,from validation ,html UI
+
+3.controller is a brain of MVc.controller connectes model and view. controllers handles user request and application flow
+controller haldles --- > recive request call model send data to view 
